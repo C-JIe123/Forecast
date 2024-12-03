@@ -1,0 +1,1 @@
+All data used in this work are publicly available. The soft X-ray flare flux data can be found on websites: \url{https://github.com/nplutino/FlareList}, the new solar flare index (1937-2020) can be found on websites: \url{https://doi.org/10.7910/DVN/U5GR3D}, and the hemispheric flare index can be found on websites: \url{https://astronomi.bogazici.edu.tr/flare-index}.
